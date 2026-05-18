@@ -10,13 +10,13 @@
 // ================================================================
 
 window.LABCHEM_FIREBASE = {
-  apiKey:            "ĐIỀN_API_KEY_CỦA_BẠN",
-  authDomain:        "TEN_PROJECT.firebaseapp.com",
-  databaseURL:       "https://TEN_PROJECT-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId:         "TEN_PROJECT",
-  storageBucket:     "TEN_PROJECT.appspot.com",
-  messagingSenderId: "SENDER_ID",
-  appId:             "APP_ID"
+  apiKey:            "AIzaSyCE9HRIyk5SovIW-3weshQVbRngoAw0Tzs",
+  authDomain:        "quan-li-hc-hsmd.firebaseapp.com",
+  databaseURL:       "https://quan-li-hc-hsmd-default-rtdb.firebaseio.com",
+  projectId:         "quan-li-hc-hsmd",
+  storageBucket:     "quan-li-hc-hsmd.firebasestorage.app",
+  messagingSenderId: "597985093503",
+  appId:             "1:597985093503:web:3fed2a9a804ffc25e61c4a"
 };
 
 // ================================================================
